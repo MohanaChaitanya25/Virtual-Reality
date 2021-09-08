@@ -1,5 +1,5 @@
 # Virtual-Reality
-This is a Website of **Virtual Reality** 
+This is a Website of **Virtual Reality**. 
 
 ## Technologies Used
 - HTML 5
