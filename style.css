@@ -1,0 +1,248 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.logo {
+    height: 35px;
+    width: 55px;
+}
+
+
+.bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.heading {
+    font-size: 40px;
+    color: #fff;
+}
+
+.banner-view-more-button {
+    color: #fff;
+    background-color: #1a2137;
+    height: 38px;
+    width: 110px;
+    border-width: 0;
+    border-radius: 5px;
+}
+
+
+/* FEATURES-SECTION */
+.features-images {
+    height: 70px;
+    width: 70px;
+}
+
+.features-heading {
+    color: #1f2933;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.features-card-headings {
+    font-size: 24px;
+    color: #1f2933;
+}
+
+.features-paras {
+    color: #7b8794;
+}
+
+
+/* VR-WEBSITE-KIT-SECTION */
+.VR-website-kit-section {
+    background-color: #f9fbfe;
+}
+
+.VR-website-kit-section-heading {
+    color: #1f2933;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.VR-website-kit-section-images {
+    height: 250px;
+    width: 200px;
+}
+
+.VR-website-kit-section-paras {
+    color: #323f4b;
+    font-size: 20px;
+}
+
+
+/* OPTICS-SECTION */
+.optics-heading {
+    color: #1f2933;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.optics-paras {
+    color: #7b8794;
+    font-size: 18px;
+}
+
+.optics-read-more-btn {
+    background-color: #1a2137;
+    color: #fff;
+    width: 115px;
+    height: 40px;
+    border-width: 0;
+    border-radius: 5px;
+}
+
+
+
+
+/* TRENDING-BLOGS */
+.Trending-Blogs-heading {
+    color: #1f2933;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.blog-card {
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+
+.blog-card-heading {
+    color: #959ead;
+    font-size: 14px;
+}
+
+.blog-card-para {
+    color: #323f4b;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.trending-blogs-read-more {
+    color: #1754a1;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.trending-blogs-view-all-btn {
+    height: 45px;
+    width: 135px;
+    background-color: #1754a1;
+    color: #fff;
+    font-size: 14px;
+    border-width: 0;
+    border-radius: 3px;
+}
+
+
+/* PRODUCTS */
+.Products-section-heading {
+    color: #1f2933;
+    font-weight: bold;
+}
+
+.product-1 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png');
+    background-size: cover;
+    height: 100vh;
+    color: #fff;
+}
+
+.product-2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png');
+    background-size: cover;
+    height: 100vh;
+    color: #fff;
+}
+
+.product-heading {
+    font-family: 'Roboto';
+    font-size: 34px;
+}
+
+.buy-now-btn {
+    height: 38px;
+    width: 115px;
+    border: 2px solid #fff;
+    border-radius: 4px;
+    background-color: transparent;
+    color: #fff;
+}
+
+.Products-view-all-btn {
+    height: 45px;
+    width: 135px;
+    border-width: 0;
+    border-radius: 5px;
+    background-color: #1754a1;
+    color: #fff;
+}
+
+/* CONTACT-US-SECTION */
+.Contact-Us-section {
+    background-color: #222b36;
+}
+
+.contact-us-heading {
+    color: #fff;
+    font-weight: bold;
+}
+
+.contact-us-btn {
+    border: 2px solid #fff;
+    border-radius: 5px;
+    background-color: transparent;
+    color: #fff;
+    height: 36px;
+    width: 120px;
+}
+
+.contact-Us-section{
+    background-color: #19232d;
+    color: #5a7184;
+}
+
+.contact-Us-img{
+    height: 49px;
+    width: 77px;
+    
+}
+
+.social-media-icons{
+    height: 40px;
+    width: 40px;
+    background-color: #202b36;
+    border-radius: 40px;
+    margin: 0 8px 8px 0;
+    padding: 12px 30px 30px 12px;
+}
+
+.social-icon{
+    font-size: 20px;
+}
+
+.contact-Us-address{
+    font-size: 16px;
+}
+
+.contact-Us-heading{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.contact-Us-para{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.hr-line{
+    background-color: #5a7184;
+}
+
+.credits{
+    color: #959ead;
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 5px;
+}
